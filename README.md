@@ -15,5 +15,5 @@ Internship project offered by "The Sparks Foundation" Prediction using Supervise
 
 Done by, Diwaan Chandar C S Student- Second year- Bannari Amman Institute of Technology
 
-#TheSparksFoundation #gripnov2020
+#TheSparksFoundation #gripnov20
 
